@@ -4,5 +4,8 @@ name = gets
 
 name = name.chomp
 
-puts "Hello " + name + ", how are you?"
+
+10.times { puts "Hello " + name + ", how are you?" }
+
+
 
