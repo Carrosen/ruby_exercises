@@ -1,11 +1,11 @@
 
-puts "What's your name?"
-name = gets
+puts "What's your first name?"
+first_name = gets
 
-name = name.chomp
+puts "And last name?"
+last_name = gets
 
-
-10.times { puts "Hello " + name + ", how are you?" }
+print ""+ first_name + last_name +""
 
 
 
