@@ -1,6 +1,3 @@
-arr = [1, 3, 5, 7, 9, 11]
-number = 3
+arr =[["test", "hello", "world"],["example", "mem"]]
 
-if number 3
-print "it's here"
-end
+arr[1][0]
