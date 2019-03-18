@@ -8,5 +8,5 @@ my_group = [person_1, person_2, person_3]
 
 
 my_group.each do |person|
-   "#{person[:name]} is #{person[:age]} years old and is a #{person[:gender]}"
+puts "#{person[:name]} is #{person[:age]} years old and is a #{person[:gender]}"
 end
